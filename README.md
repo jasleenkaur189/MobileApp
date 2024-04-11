@@ -14,3 +14,4 @@ It serves as a friendly and informative starting point for users, helping them g
 The main page of the app features a user-friendly calculator interface for performing arithmetic operations.
 Users can easily input numbers and perform addition, subtraction, multiplication, and division using their respective buttons.
 Also i add navigation bar with different logo for different page . 
+you can check the output from the outputs pdf attach in files
